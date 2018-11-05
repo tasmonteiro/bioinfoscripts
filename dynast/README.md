@@ -19,7 +19,7 @@
 
 ```python3 dynast.py```
 
-**3. But adding flags to the execution command will alter its parameters, allowing for customization**
+**3. But adding flags to the execution command will alter its parameters, allowing customization**
 
 ```(python3) dynast.py -v(erbose) -s(crapper-only) -i(nput) INPUT_PATH -o(utput) OUTPUT_PATH -n(ame) OUTPUT_FILE_NAME```
 
