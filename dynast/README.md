@@ -28,7 +28,7 @@
 * -s scrapper-only mode, doesn't download any data
 * -i sets the data input path
 * -o sets the output path
-* -n sets the output file name and eztension (.csv and .txt recommended)
+* -n sets the output file name and extension (.csv and .txt recommended)
 
 **4. You can always check the help (-h) option**
 
